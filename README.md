@@ -5,4 +5,5 @@
 This is the first assignment for the UTSA Bootcamp. The Website is called "Horiseon Social Solution Services"
 <br>
 This is a preview of the website:
+
 ![code refactor demo](./assets/images/refactor-demo.png)
