@@ -42,12 +42,13 @@ header div ul li {
     margin-left: 25px;
 }
 
-
+/*This changes the hyperlink colors*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*This changes the paragraph color*/
 p {
     font-size: 16px;
 }
@@ -60,7 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*These are the margin settings for the float sections*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,8 +71,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-
 
 .content {
     width: 75%;
