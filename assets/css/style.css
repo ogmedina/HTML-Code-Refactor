@@ -1,13 +1,14 @@
+/*this is a css reset*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/*This is the Background Color of the Body section */
+/*this is the background color of the body section */
 body {
     background-color: #d9dcd6;
 }
-/*This is the section for the parts in the <header> (header, h1, div, ul, li) */
+/*this is the section for the parts in the <header> (header, h1, div, ul, li) */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +21,7 @@ header h1 {
     font-size: 48px;
 }
 
-/*This is the formatting for the letters "seo" in the header section*/
+/*this is the formatting for the letters "seo" in the header section*/
 .seo {
     color: #d9dcd6;
 }
@@ -42,17 +43,18 @@ header div ul li {
     margin-left: 25px;
 }
 
-/*This changes the hyperlink colors*/
+/*this changes the hyperlink colors*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/*This changes the paragraph color*/
+/*this changes the paragraph color*/
 p {
     font-size: 16px;
 }
-/*This is the center image settings and relative location*/
+
+/*this is the center image settings and relative location*/
 .hero {
     height: 800px;
     width: 100%;
@@ -61,7 +63,8 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*These are the margin settings for the float sections*/
+
+/*these are the margin settings for the float sections*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,16 +75,15 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/*these are the size settings for <section> */
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-
-
-
-.benefits {
+/*these are the size settings for <aside> */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -92,70 +94,24 @@ p {
     background-color: #2589bd;
 }
 
-
-
-/* Right side stuff */ 
-.benefit-lead {
+/*this is the benefit content in <aside> */
+.benefit-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-
-
-
-
-
-
-.benefit-lead h3 {
+.benefit-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-
-
-.benefit-lead img {
+.benefit-content img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+
 }
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-
-
-
-
-/* This is the main content on left side */
+/* this is the main content in <section> */
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -173,17 +129,14 @@ p {
     font-size: 36px;
 }
 
-
-
-
-
-.footer {
+/*this is the footer content */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
