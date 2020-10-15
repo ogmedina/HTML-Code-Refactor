@@ -10,7 +10,7 @@ This is the first assignment for the UTSA Full-Stack Bootcamp. The website page 
 * Comments in CSS
 
 ### Published Site
-Here is the link to the depeloyed page: [Horiseon Social Solution Services](https://ogmedina.github.io/Homework-CodeRefactor-HTMLCSS/) 
+Here is the link to the deployed page: [Horiseon Social Solution Services](https://ogmedina.github.io/Homework-CodeRefactor-HTMLCSS/) 
 
 
 ### Preview
