@@ -1,4 +1,4 @@
-# Homework-CodeRefactor-HTMLCSS
+# Homework Code Refactor HTML/CSS
 ## Full Stack Boot Camp Homework 1 - Code Refactoring
 
 ### Description
