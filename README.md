@@ -1,20 +1,39 @@
-# Homework Code Refactor HTML/CSS
-## Full Stack Boot Camp Homework 1 - Code Refactoring
+# Code Refactor HTML/CSS
 
 ### Description
-This is the first assignment for the UTSA Full-Stack Bootcamp. The website page is called "Horiseon Social Solution Services" There were changes made to the following:
+The website page is called "Horiseon Social Solution Services" There were changes made to the following:
 
 * HTML Semantics
 * Image Alt tags
 * CSS Selectors/Properties
 * Comments in CSS
 
-### Published Site
-Here is the link to the deployed page: [Horiseon Social Solution Services](https://ogmedina.github.io/Homework-CodeRefactor-HTMLCSS/) 
+### Table of Contents
+
+* [Installation](#installation)
+* [Hosted Site](#hosted)
+* [Screenshots](#screenshots)
+* [Technologies Used](#technologies%20used)
+* [Questions](#questions)
+
+### Installation
+Please begin by downloading the files onto your computer. Then open up index.html on your browser.
 
 
-### Preview
+### Hosted
+The app is hosted using GitHub Pages here at this link: [HTML Code Refactor](https://ogmedina.github.io/HTML-Code-Refactor/)
+```
+Live Site: https://ogmedina.github.io/HTML-Code-Refactor/
+```
 
-Here is a preview of the website:
-
+### Screenshots 
 ![code refactor demo](./assets/images/refactor-demo.png)
+
+### Technologies Used:
+Front End: 
+* HTML
+* CSS
+* JavaScript
+
+### Questions
+If you have any questions about the repo, open an issue or contact me directly at ogmdeveloper0@gmail.com. You can find more of my work through my [GitHub Account](https://github.com/ogmedina/).
